@@ -1,96 +1,144 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
-    img: "img/product-1.png",
+    title: "African Kente Cloth Sewed on Unisex T-shirts",
+    img: "img/produt-1.jpg",
     price: 10,
-    company: "GOOGLE",
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      'This items comes in a size MEDIUM AND EXTRA LARGE, The brand name "Muan" means "Joy" in bassa, which comes from one of the many tribes in Liberia West Africa. There is a hyphen on the spelling of this word, which the crown symbolizes. The red, white and blue circle with the one star.',
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
-    img: "img/product-2.png",
-    price: 16,
-    company: "SAMSUNG",
+    title: "African Kente Cloth Sewed on Unisex T-shirt",
+    img: "img/produt-2.jpg",
+    price: 20,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "This Kente cloth comes in a triangular design located on the bottom left of the shirt.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
-    img: "img/product-3.png",
+    title: "African Kente Cloth Sewed on Unisex T-shirts",
+    img: "img/produt-3.jpg",
     price: 8,
-    company: "htc",
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The brand name Muan means Joy in bassa, which comes from one of the many tribes in Liberia West Africa., There is a hyphen on the spelling of this word, which the crown symbolizes. The red, white and blue circle with the one star; also known as the lone star symbolizes the Liberian flag. The kente cloth is a representation of Africa as a nation.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
-    img: "img/product-4.png",
-    price: 18,
-    company: "htc",
+    title: "Muan lady's sweatshirt",
+    img: "img/produt-4.jpg",
+    price: 20,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Muancollections is handmand and designed by our creative design team.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
-    img: "img/product-5.png",
-    price: 24,
-    company: "htc",
+    title: "All Silver African Waist Bead",
+    img: "img/produt-5.jpg",
+    price: 15,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Our African Waist Beads is made by handmade, looks amaazzing, it's one of our customers popular waist bands.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
-    img: "img/product-6.png",
-    price: 17,
-    company: "apple",
+    title: "The Kente clothings",
+    img: "img/produt-6.jpg",
+    price: 20,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      'The brand name "Muan" means "Joy" in bassa, which comes from one of the many tribes in Liberia West Africa. There is a hyphen on the spelling of this word, which the crown symbolizes. The red, white and blue circle with the one star; also known as the lone star symbolizes the Liberian flag. The kente cloth is a representation of Africa as a nation.',
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
-    img: "img/product-7.png",
-    price: 30,
-    company: "apple",
+    title: "Our muan's best collection of lady's T-shirt",
+    img: "img/produt-7.jpg",
+    price: 20,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Coming this season great for spring and summe, This Kente cloth comes in a vertical design. Containing the colors Blue, Green, and Orange. And also Blue, Orange and Red.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
-    img: "img/product-8.png",
-    price: 2,
-    company: "apple",
+    title: "Africa is in my DNA",
+    img: "img/produt-8.jpg",
+    price: 30,
+    company: "muan collections",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      'Africa, Place of the human Origin. Our "Africa is in my DNA brand" is a stylistic unisex brand',
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+
+  {
+    id: 9,
+    title: 'Our "Africa is my dna is perfect for group\'s event"',
+    img: "img/produt-9.jpg",
+    price: 15,
+    company: "muan collections",
+    info:
+      "Africa is in my DNA is desgined by our creative design team, made in different colors.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 10,
+    title: "Muan's best unisex T-shirt",
+    img: "img/produt-14.jpg",
+    price: 30,
+    company: "muan collections",
+    info: "African Kente Cloth Sewed on Unisex T-shirts.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 11,
+    title: "handmade kids wristbands",
+    img: "img/produt-11.jpg",
+    price: 5.99,
+    company: "muan collections",
+    info:
+      "our designers create variety of authentic wristbands representing different African countries flag.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+
+  {
+    id: 12,
+    title: "Muancollections",
+    img: "img/produt-15.jpg",
+    price: 20,
+    company: "muan collections",
+    info: "African Kente Cloth Sewed on Unisex T-shirts.",
     inCart: false,
     count: 0,
     total: 0
@@ -99,10 +147,10 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
-  img: "img/product-1.png",
+  title: "liberian",
+  // img: "img/produt-11.jpg",
   price: 10,
-  company: "google",
+  company: "muan collections",
   info:
     "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
   inCart: false,
